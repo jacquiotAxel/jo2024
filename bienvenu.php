@@ -21,7 +21,7 @@ session_start();
     <script type="text/javascript">
         // Rediriger vers index.html après 2 secondes
         setTimeout(function() {
-            window.location.href = 'jo2024';
+            window.location.href = 'index.html';
         }, 2000);
     </script>
 </body>
